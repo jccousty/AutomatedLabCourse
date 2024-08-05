@@ -1,2 +1,0 @@
-# AutomatedLabCourse
-Automated Lab Course
